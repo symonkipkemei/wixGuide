@@ -1,0 +1,6 @@
+F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\bin\x86\Debug\en-US\WixTutorialPackage.msi
+F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\bin\x86\Debug\en-US\WixTutorialPackage.wixpdb
+F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\obj\x86\Debug\WixTutorialPackage.wixproj.CoreCompileInputs.cache
+F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\obj\x86\Debug\en-US\WixTutorialPackage.msi
+F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\obj\x86\Debug\en-US\WixTutorialPackage.wixpdb
+F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\obj\x86\Debug\WixTutorialPackage.wixproj.BindTracking-en-US.txt

@@ -1,0 +1,4 @@
+BuiltPdbOutput	F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\obj\x86\Debug\en-US\WixTutorialPackage.wixpdb
+BuiltTargetOutput	F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\obj\x86\Debug\en-US\WixTutorialPackage.msi
+Input	F:\BIMHABITAT\SOFTWARES\WixTutorial\App\bin\Debug\App.exe
+Intermediate	F:\BIMHABITAT\SOFTWARES\WixTutorial\WixTutorialPackage\obj\x86\Debug\en-US\#cab1.cab

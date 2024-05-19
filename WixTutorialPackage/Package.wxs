@@ -1,0 +1,12 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+  <Package Name="WixTutorialPackage" Manufacturer="Edgerock Concepts" Version="1.0.0.0" UpgradeCode="5d26ed1c-640c-4a94-a13e-46d7c20d98b7">
+    <MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+	<MediaTemplate EmbedCab="yes" />
+	<Launch Condition="MsiNTProductType = 1" Message="TODO Wrong OS type! TODO" />
+	  
+
+    <Feature Id="Main">
+      <ComponentGroupRef Id="AppComponents" />
+    </Feature>
+  </Package>
+</Wix>

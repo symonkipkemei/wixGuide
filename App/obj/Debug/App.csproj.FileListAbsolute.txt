@@ -1,0 +1,9 @@
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\bin\Debug\App.exe.config
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\bin\Debug\App.exe
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\bin\Debug\App.pdb
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\obj\Debug\App.csproj.AssemblyReference.cache
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\obj\Debug\App.Properties.Resources.resources
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\obj\Debug\App.csproj.GenerateResource.cache
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\obj\Debug\App.csproj.CoreCompileInputs.cache
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\obj\Debug\App.exe
+F:\BIMHABITAT\SOFTWARES\WixTutorial\App\obj\Debug\App.pdb
